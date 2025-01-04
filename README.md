@@ -52,7 +52,10 @@
 
                                                         
                          📊 STEP 4: MODEL EVALUATION
-                      
+
+                                  Maintain the training data for 80% and testing  for 20% mostly we give more data in training side .
+                                  Maintain the accuracy score above 75% is good 
+                      we get the accuracy score
                                   ✅ Accuracy score on training data: ~84%
                                   ✅ Accuracy score on testing data: ~76%
 
